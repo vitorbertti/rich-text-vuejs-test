@@ -1,1 +1,1 @@
-# Rich Text App Test
+# Rich Text App Vue Test
